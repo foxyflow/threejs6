@@ -1,0 +1,8 @@
+Model Information:
+* title:	Skateboard 3D Scan
+* source:	https://sketchfab.com/3d-models/skateboard-3d-scan-e00b5d83fd41416e8871d5474c3a08ac
+* author:	grafi (https://sketchfab.com/zdenkoroman)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest

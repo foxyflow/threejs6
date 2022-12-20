@@ -1,0 +1,8 @@
+Model Information:
+* title:	Addidas Shoe Sneakers 3D scan
+* source:	https://sketchfab.com/3d-models/addidas-shoe-sneakers-3d-scan-e8bce197ccdf4b529b34e0aaf64597b6
+* author:	grafi (https://sketchfab.com/zdenkoroman)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest
